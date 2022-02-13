@@ -102,10 +102,14 @@ hyperskill Java Course by JetBrains Academy.
 - Node.js (intermediate)
 
 ## ACTIVITIES
+### 2021 – 2022
+### COMPUTING CLUB, ORGANISING COMMITTEE
+- Helped in the finance and logistics of the computing club sports cell.
+- Organized events and activities.
 ### 2017 – 2018
 ### LIBRARY COUNCIL, EXCO
 - Helped in the processing and recording of loan of books and laptops.
-- Organized events and activity that promotes reading.
+- Organized events and activities that promotes reading.
 - Participate in the volunteering at soup kitchen helping to cook food.
 ### 2017 – 2018
 ### ECONOMICS SOCIETY, MEMBER
