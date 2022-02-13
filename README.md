@@ -59,8 +59,8 @@ hyperskill Java Course by JetBrains Academy.
 ## EDUCATION
 ### 2021 - 2025
 ### BACHELOR OF COMPUTING IN COMPUTER SCIENCE WITH HONOURS, NATIONAL UNIVERSITY OF SINGAPORE
-- Specialises in Networking and Distributed Systems
-- Specialises in Parallel Computing
+- Specialisation in Networking and Distributed Systems
+- Specialisation in Parallel Computing
 - Minor in Quantitative Finance
 ### 2020 - 2020
 ### STANFORD CODE IN PLACE
