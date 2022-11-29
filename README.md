@@ -1,1 +1,1 @@
-<img src="/metrics.terminal.svg" alt="Metrics" width="150%">
+<img src="/metrics.terminal.svg" alt="Metrics" width="100%">
