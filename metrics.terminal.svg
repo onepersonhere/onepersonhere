@@ -37,18 +37,18 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 13 Feb 2024, 00:34:39
+Last generated: 14 Feb 2024, 00:34:06
 </div>
 <div class="stdin"><span class="ps1-path">onepersonhere@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Michael Kang</b> registered=4y, uid=3502, gid=6
-  contributed to 18 repositories <b><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 18 repositories <b><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>20</b> users
 </div>
-<div class="stdin"><span class="ps1-path">onepersonhere@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>HTML        </b> [##############      ] 65.30%
-<b>JAVA        </b> [######              ] 26.31%
-<b>GDSCRIPT    </b> [##                  ] 5.23 %
-<b>JAVASCRIPT  </b> [#                   ] 2.54 %
-<b>CSS         </b> [#                   ] 0.45 %
-<b>C#          </b> [#                   ] 0.11 %
+<div class="stdin"><span class="ps1-path">onepersonhere@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>HTML        </b> [##############      ] 66.62%
+<b>JAVA        </b> [######              ] 26.85%
+<b>GDSCRIPT    </b> [#                   ] 3.35 %
+<b>JAVASCRIPT  </b> [#                   ] 2.60 %
+<b>CSS         </b> [#                   ] 0.46 %
+<b>C#          </b> [#                   ] 0.07 %
 <b>GAP         </b> [#                   ] 0.05 %
 <b>SHELL       </b> [#                   ] 0.01 %
 </div>
@@ -1895,14 +1895,19 @@ Last generated: 13 Feb 2024, 00:34:39
                       <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4 0,3 z"/>
                       <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3 1.7,4 z"/>
+                    </g>
+                    <g transform="translate(-3.4, 8)">
+                      <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g></g></g></svg></div>
-<b>    4</b> consecutive days with commits
-<b>~1.13</b> commits per day in average
+<b>    0</b> consecutive days with commits
+<b>~1.12</b> commits per day in average
 </div>
 
 
 
-<footer>Connection reset by 230.170.130.236</footer></pre>
+<footer>Connection reset by 47.144.106.132</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
